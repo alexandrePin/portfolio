@@ -251,7 +251,7 @@ section { position: relative; z-index: 1; }
   border-bottom: 1px solid var(--border);
 }
 .hero-card-avatar {
-  width: 56px; height: 56px;
+  width: 88px; height: 88px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center 65%;
@@ -314,8 +314,8 @@ section { position: relative; z-index: 1; }
   margin-bottom: 48px;
 }
 .avatar-wrap {
-  width: 100px;
-  height: 100px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   flex-shrink: 0;
   padding: 3px;
